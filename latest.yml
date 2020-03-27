@@ -1,0 +1,9 @@
+version: 2.0.1
+files:
+  - url: intellifriend-v2.0.1-win.exe
+    sha512: 4tO20hpPBW/Ug1Nm0uQzLl23BFXI8L0G3I+P4YXuh4V+f92Zan1mDFwWC04CdL0bohdGRWlVVWcRN7hUOSaQzQ==
+    size: 130869774
+path: intellifriend-v2.0.1-win.exe
+sha512: 4tO20hpPBW/Ug1Nm0uQzLl23BFXI8L0G3I+P4YXuh4V+f92Zan1mDFwWC04CdL0bohdGRWlVVWcRN7hUOSaQzQ==
+sha2: 72ac40275c2f023955d68b2daecf60532aff5f4d65b77a34ba2b3ebfb2a895bb
+releaseDate: '2020-03-27T08:23:46.502Z'
