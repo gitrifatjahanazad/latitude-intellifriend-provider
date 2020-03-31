@@ -1,0 +1,9 @@
+version: 2.0.1
+files:
+  - url: intellifriend-2.0.1-x86_64.AppImage
+    sha512: xG+C26rPfudMt4JAsKcbrzrvuhmWMq1kT+GJp+vMzJVeww/k1K8LP2i4CGEQxG6XzJRKjurspZmIKza14OLJDA==
+    size: 77116782
+    blockMapSize: 81586
+path: intellifriend-2.0.1-x86_64.AppImage
+sha512: xG+C26rPfudMt4JAsKcbrzrvuhmWMq1kT+GJp+vMzJVeww/k1K8LP2i4CGEQxG6XzJRKjurspZmIKza14OLJDA==
+releaseDate: '2020-03-31T06:26:53.777Z'

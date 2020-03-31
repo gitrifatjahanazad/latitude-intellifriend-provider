@@ -1,1 +1,2 @@
 intellifriend-v2.0.1-win.exe filter=lfs diff=lfs merge=lfs -text
+intellifriend-2.0.1-x86_64.AppImage filter=lfs diff=lfs merge=lfs -text
